@@ -91,7 +91,7 @@ body {
 #slider-container{
     width: 100%;
     height: 400px;
-    background-image:url(../CSS3/Images/newspaper.jpg) ;
+    background-image:url(Images/newspaper.jpg) ;
     background-repeat:no-repeat;
     background-size:cover;
     text-align: center;
